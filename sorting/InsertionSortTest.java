@@ -29,4 +29,3 @@ public class InsertionSortTest {
 		System.out.println("Sorted list1:   " + Arrays.toString(list1));
 	}
 }
-
